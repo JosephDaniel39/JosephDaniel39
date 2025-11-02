@@ -1,5 +1,3 @@
-# 🐍 Python Full Stack Developer Profile
-
 ## 👨‍💻 About Me
 I’m a **Python Full Stack Developer** with a strong focus on building scalable, maintainable, and data-driven web applications.  
 I specialize in designing end-to-end systems — from clean backend APIs to interactive, modern frontends — using best practices in architecture, performance optimization, and cloud deployment.
@@ -9,15 +7,15 @@ I specialize in designing end-to-end systems — from clean backend APIs to inte
 ## 🚀 Technical Skills
 
 ### 🧩 Backend Development
-- **Languages:** Python, JavaScript (Node.js basics)
-- **Frameworks:** Django, Flask, FastAPI
+- **Languages:** Python, JavaScript, TypeScript, C++
+- **Frameworks:** FastAPI, Django, Flask
 - **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 - **ORMs:** SQLAlchemy, Django ORM
 - **API Development:** RESTful APIs, GraphQL, WebSocket
 - **Asynchronous Tasks:** Celery, Redis, RabbitMQ
 
 ### 🖥️ Frontend Development
-- **Frameworks/Libraries:** React.js, Next.js, Vue.js (basic)
+- **Frameworks/Libraries:** React.js, Next.js, Vue.js
 - **UI Styling:** Tailwind CSS, Bootstrap, Material UI
 - **State Management:** Redux, Context API
 - **API Integration:** Axios, Fetch, React Query
@@ -32,8 +30,6 @@ I specialize in designing end-to-end systems — from clean backend APIs to inte
 - **Version Control:** Git, GitHub, GitLab
 - **Authentication:** JWT, OAuth2, Django Allauth
 - **Testing:** Pytest, UnitTest, Postman, Selenium
-- **Data Processing:** Pandas, NumPy
-- **AI/ML Integration:** OpenAI API, LangChain, Hugging Face Transformers (basic understanding)
 
 ---
 
