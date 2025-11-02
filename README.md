@@ -1,8 +1,47 @@
-- 👋 Hi, I’m @JosephDaniel39
-- 👀 I’m interested in Artificial Intelligence
+# 🐍 Python Full Stack Developer Profile
 
+## 👨‍💻 About Me
+I’m a **Python Full Stack Developer** with a strong focus on building scalable, maintainable, and data-driven web applications.  
+I specialize in designing end-to-end systems — from clean backend APIs to interactive, modern frontends — using best practices in architecture, performance optimization, and cloud deployment.
 
-<!---
-JosephDaniel39/JosephDaniel39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Technical Skills
+
+### 🧩 Backend Development
+- **Languages:** Python, JavaScript (Node.js basics)
+- **Frameworks:** Django, Flask, FastAPI
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **ORMs:** SQLAlchemy, Django ORM
+- **API Development:** RESTful APIs, GraphQL, WebSocket
+- **Asynchronous Tasks:** Celery, Redis, RabbitMQ
+
+### 🖥️ Frontend Development
+- **Frameworks/Libraries:** React.js, Next.js, Vue.js (basic)
+- **UI Styling:** Tailwind CSS, Bootstrap, Material UI
+- **State Management:** Redux, Context API
+- **API Integration:** Axios, Fetch, React Query
+
+### ☁️ DevOps & Deployment
+- **Containers:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
+- **Cloud Services:** AWS (EC2, S3, Lambda), Google Cloud, Render, Vercel
+- **Reverse Proxy / Web Servers:** Nginx, Gunicorn, Uvicorn
+
+### 🧠 Additional Skills
+- **Version Control:** Git, GitHub, GitLab
+- **Authentication:** JWT, OAuth2, Django Allauth
+- **Testing:** Pytest, UnitTest, Postman, Selenium
+- **Data Processing:** Pandas, NumPy
+- **AI/ML Integration:** OpenAI API, LangChain, Hugging Face Transformers (basic understanding)
+
+---
+
+## 🏗️ Core Competencies
+- Full-stack web application design and deployment
+- Scalable API development with Python frameworks
+- Database schema design and query optimization
+- Frontend integration with responsive design principles
+- DevOps automation and CI/CD pipelines
+- Real-time data pipelines and asynchronous task handling
+- Collaboration with cross-functional teams using Agile/Scrum
